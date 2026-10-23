@@ -10,8 +10,8 @@ That is a project that lets you control all your online orders via Terminal(i me
 # Tech Stack
 Basically, this project was made with:
 
-Python 3.14.8
-python library "time"
+  - Python 3.14.8
+  - python library "time"
 
 # Installation
 

@@ -2,10 +2,10 @@
 That is a project that lets you control all your online orders via Terminal(i mean, not exactly directly control your online orders, but you manually add orders and their numbers in the Tool and can see all you added and more!
 
 # Features
-    See all your orders
-    Add orders in to the app to see later all the info
-    Delete orders from the list of the app
-    Edit info of selected order
+  - See all your orders
+  - Add orders in to the app to see later all the info
+  - Delete orders from the list of the app
+  - Edit info of selected order
 
 # Tech Stack
 Basically, this project was made with:
